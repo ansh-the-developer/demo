@@ -18,7 +18,7 @@ const About = (Props) => {
             <h1 class="datasciencehead">Our Clinic</h1>
             <hr id="line" />
             <p class="datasciencepara">
-              Dr. Priyank Vya Pet Hospital &amp; Diagnostic Centre dog clinic
+              Dr. MORRIS Pet Hospital &amp; Diagnostic Centre dog clinic
               and veterinary services has its place in the list of Veterinary
               Clinics. Organization has an average score of 4 by NiceLocal
               visitors and concludes its business by the following address:
