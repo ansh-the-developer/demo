@@ -6,21 +6,21 @@ const CData = [
   {
     Image1: img1,
     label1:
-      "Dr. Priyank Vyas Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
+      "Dr. MORRIS Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
     description1: "Visit Now",
     
   },
   {
     Image2: img2,
     label2:
-      "Dr. Priyank Vyas Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
+      "Dr. MORRIS Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
     description2: "Visit Now",
     
   },
   {
     Image3: img3,
     label3:
-      "Dr. Priyank Vyas Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
+      "Dr. MORRIS Pet Hospital & Diagnostic Centre dog clinic and veterinary services",
     description3: "Visit Now",
     
   },
