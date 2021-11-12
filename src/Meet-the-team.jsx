@@ -13,7 +13,7 @@ const Doctor = (Props) => {
             <Row>
             {/* <Col sm='2'></Col> */}
               <Col sm='6'>
-                <h1 className="dh">Dr. Priyank Das</h1>
+                <h1 className="dh">Dr. Morris</h1>
                 <p className="dp">
                   Assistant Professor at Graphic Era Deemed to be University. It
                   has survived not only five centuries, but also the leap into
