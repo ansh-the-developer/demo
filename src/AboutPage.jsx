@@ -9,23 +9,7 @@ const About = (Props) => {
   return (
     <>
     <section id='about'>
-      {/* <Head
-        item1={HData[1].item1}
-        item2={HData[1].item2}
-        item3={HData[1].item3}
-        item4={HData[1].item4}
-        item5={HData[1].item5}
-        item6={HData[1].item6}
-        item7={HData[1].item7}
-        item8={HData[1].item8}
-        item9={HData[1].item9}
-        item10={HData[1].item10}
-        item11={HData[1].item11}
-        item12={HData[1].item12}
-        /> */}
-      
-      
-
+    
       <Container  fluid className="about">
         <Row>
           <Col sm="1" className="blank"></Col>
@@ -52,7 +36,7 @@ const About = (Props) => {
                 />
                 <br />
                 <br />
-                <button class="btn btn-primary full-primary">
+                <button >
                   Pet Of The Month
                 </button>
                 <p class="image_content">
@@ -74,7 +58,7 @@ const About = (Props) => {
                 />
                 <br />
                 <br />
-                <button class="btn btn-primary full-primary"> Hot Deals</button>
+                <button > Hot Deals</button>
                 <p class="image_content">
                   It was with a very heavy herue to her name, she is very
                   easy-going and loves to lounge around all day. She likes atte
@@ -93,7 +77,7 @@ const About = (Props) => {
                 />
                 <br />
                 <br />
-                <button class="btn btn-primary full-primary">
+                <button >
                    Video of Month 
                 </button>
                 <p class="image_content">
@@ -116,7 +100,7 @@ const About = (Props) => {
               src="https://festive-curie-33cd8a.netlify.app/static/media/9.3b2654de.jpeg"
               alt=""
             />
-            <button className="button4"> Meet Our New Receptonist</button>
+            <button > Meet Our New Receptonist</button>
             <p className="image_content4">
               It was with a very heavy heart that Lazy’s owner had to relocate
               and could not take her with him. True to her name, she is very
