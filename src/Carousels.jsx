@@ -11,6 +11,7 @@ const CarouselP = (Props) => {
             class="d-block w-100 dark "
             src={Props.Image1}
             alt="First slide"
+            object-fit= "contain"
           />
           <Carousel.Caption>
             <h3>{Props.label1}</h3>
@@ -23,6 +24,7 @@ const CarouselP = (Props) => {
             className="d-block w-100 dark"
             src={Props.Image2}
             alt="Second slide"
+            object-fit= "contain"
           />
           <Carousel.Caption>
             <h3>{Props.label2}</h3>
@@ -35,6 +37,7 @@ const CarouselP = (Props) => {
             className="d-block w-100 dark"
             src={Props.Image3}
             alt="Third slide"
+            object-fit= "contain"
           />
           <Carousel.Caption>
             <h3>{Props.label3}</h3>
